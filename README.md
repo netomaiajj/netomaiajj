@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE. Sou formado em Gestão de RH e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Meu primeiro contato com tecnologia e computadores foi em 2005 e desde então não parei. Sou apaixonado por tudo o que envolva programação e hoje dedico o meu tempo livre a buscar conhecimento, seja através de cursos ou bootcamps.  
+Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE. Sou formado em Gestão de RH e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Meu primeiro contato com tecnologia e computadores foi em 2005 e desde então não parei de praticar. Sou apaixonado por tudo o que envolva programação e hoje dedico o meu tempo livre em aprofundar o meu estudo.   
 
 ---
 
