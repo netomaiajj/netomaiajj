@@ -98,7 +98,7 @@ Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=netomaiajj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -106,7 +106,7 @@ Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120"
+      height="180"
       style="padding-right: 10px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=netomaiajj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
