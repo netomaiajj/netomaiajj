@@ -96,7 +96,7 @@ Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE.
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
@@ -105,7 +105,7 @@ Olá, me chamo José Leuriberto Maia Neto, tenho 29 anos e moro em Fortaleza/CE.
 </p>
 <p>
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="180"
       style="padding-right: 10px" 
