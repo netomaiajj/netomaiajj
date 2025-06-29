@@ -1,4 +1,10 @@
-# 👩🏻‍💻 Olá!
+<img
+    align="left"
+    width="60px"
+    height="60px"
+    src="https://github.com/user-attachments/assets/029b0154-4af1-43f1-aab1-94cb87370464"
+/> 
+# Olá!
 
 **`Desenvolvedor FullStack`**
 
